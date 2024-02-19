@@ -13,5 +13,5 @@ header {
 	background-image: url("https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png");
 	background-size: contain;
 	background-repeat: no-repeat;
-	margin-left: 20px;
+	margin: 20px 0px 0px 20px;
 }
