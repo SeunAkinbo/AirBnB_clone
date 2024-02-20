@@ -148,18 +148,24 @@
 .places .amenities li::before {
 	content: '';
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 20px;
 	background-repeat: no-repeat;
 }
 
 .places .amenities li.pet::before {
 	background-image: url('../images/pets.png');
+	width: 45px;
+	height: 45px;
 }
 
 .places .amenities li.wifi::before {
 	background-image: url('../images/wifi.png');
+	width: 45px;
+	height: 45px;
 }
 
 .places .amenities li.tv::before {
 	background-image: url('../images/tv.png');
+	width: 45px;
+	height: 45px;
 }
